@@ -17,3 +17,6 @@ This technique is widely used in recommendation systems. It involves making auto
 
 # Ranking Algorithms:
  To prioritize and display potential matches to users, ranking algorithms are crucial. These algorithms take into account various factors, such as match compatibility, user preferences, and likelihood of mutual interest, to present the most relevant matches to each user.
+
+
+ bhai mai edit kr paa rhi hu kya ye tume show kr rha 
